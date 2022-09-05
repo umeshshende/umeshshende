@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have completed MCA (Master in Computer Application) from Mumbai University <br>currently working on .NET and Azure as Cloud Platform since last more than 6 years.
+I have completed MCA (Master in Computer Application) from Mumbai University <br>currently working on .NET & Angular & SQL and Azure as Cloud Platform since last more than 6 years.
 
 
 ## 🌐 Socials:
