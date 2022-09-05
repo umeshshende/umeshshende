@@ -1,5 +1,7 @@
 # 💫 About Me:
-I have completed MCA (Master in Computer Application) from Mumbai University <br>currently working on .NET & Angular & SQL and Azure as Cloud Platform since last more than 6 years.
+I have completed MCA (Master in Computer Application) from Mumbai University currently working on .NET and Azure as Cloud Platform since last more than 6 years.
+
+Hand on experience in Azure cloud services such as Site deployment from beginning, Plan Management, SQL server management, Monitoring performance and Logs etc. Experience on Release Management such as creating pipeline in devops, which build and release the code and other task in pipeline.
 
 
 ## 🌐 Socials:
